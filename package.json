@@ -19,7 +19,7 @@
     "sequelize": "^5.21.2",
     "sequelize-cli": "^5.5.1",
     "twin-bcrypt": "^2.1.1",
-    "validator": "^12.0.0"
+    "validator": "^13.7.0"
   },
   "main": "app.js",
   "author": "",
